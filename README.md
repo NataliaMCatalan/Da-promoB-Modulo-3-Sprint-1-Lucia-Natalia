@@ -1,1 +1,1 @@
-# Da-promoB-Modulo-3-Sprint-1-Lucia-Natalia
+Aquí podrás encontrar una serie de ejercicios donde basadas en diferentes dataset realizamos diferentes modelos predictivos
