@@ -1,1 +1,1 @@
-Aquí podrás encontrar una serie de ejercicios donde realizamos diferentes modelos predictivos sobre dos datasets diferentes
+Aquí realizamos en Pair Programming el análisis de dos dataset uno sobre zarigüellas y otro sobre clima, explorando la correlación que podría exisistir entre sus diferentes variables.
